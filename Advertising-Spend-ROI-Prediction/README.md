@@ -140,6 +140,7 @@ Open a Worksheet from the left-hand panel, and connect the worksheet to your new
 * `pip install scikit-learn`
 
 ### **Step 4** -- Update [connection.json](connection.json) with your Snowflake account details and credentials
+Note that the `account` field the the 'Locator' ID of the account, found by hovering your mouse over the bottom-left account details, or within the URL of your Snowflake webpage.
 
 ### **Step 5** -- Run through the [Jupyter notebook](Snowpark_For_Python.ipynb)
 
