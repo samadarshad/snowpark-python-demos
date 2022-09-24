@@ -32,7 +32,7 @@ NOTE: The accompanying slides can be found [here](https://github.com/Snowflake-L
     * Create a [Warehouse](https://docs.snowflake.com/en/sql-reference/sql/create-warehouse.html), a [Database](https://docs.snowflake.com/en/sql-reference/sql/create-database.html) and a [Schema](https://docs.snowflake.com/en/sql-reference/sql/create-schema.html)
 
 ## Setup
-Open a Worksheet from the left-hand panel, and connect the worksheet to your newly created database and schema from the prerequisites above.
+Open a Worksheet from the left-hand panel, and connect the worksheet to your newly created warehouse, database and schema from the prerequisites above.
 
   ```sql
   USE ROLE ACCOUNTADMIN;
