@@ -156,6 +156,8 @@ The notebook does the following...
 
 ### **Step 6** -- Run Streamlit app
 
+* `pip install streamlit`
+
 In a terminal window, browse to this folder where you have this file downloaded and run the [Streamlit app](Snowpark_Streamlit_Revenue_Prediction.py) by executing `streamlit run Snowpark_Streamlit_Revenue_Prediction.py`
 
 If all goes well, you should see the following app in your browser window.
